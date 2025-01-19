@@ -1,5 +1,7 @@
 # EEG Signal Classification Project Overview
 
+# The tasks have been uploaded in seperate folders but maintainig the continuity so please do check all the task folders for evaluation
+
 This project focuses on the classification of EEG signals, specifically for seizure detection. The tasks include feature extraction, model building, evaluation, and improving the performance using various machine learning techniques.
 
 Task Breakdown
